@@ -1,10 +1,5 @@
 # Valorant 陣容勝率預測器
 
-![Valorant](https://img.shields.io/badge/Game-Valorant-ff4655?style=for-the-badge&logo=valorant)
-![Python](https://img.shields.io/badge/Python-3.9+-blue?style=for-the-badge&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Random%20Forest%20%7C%20XGBoost-orange?style=for-the-badge)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
 本專案為一個基於機器學習 (Machine Learning) 的互動式 Web 應用程式，旨在透過 **Random Forest** 與 **XGBoost** 演算法，預測《特戰英豪》(Valorant) 電競比賽中特定陣容與地圖搭配的勝率。
 
 此專案為機器學習相關課程的期末實作，展現了從 **資料清理、特徵工程、模型訓練到 Web 服務部署** 的完整機器學習開發生命週期。
