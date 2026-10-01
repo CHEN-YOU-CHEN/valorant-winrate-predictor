@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+env/
+.env
+
+# Large Data files
+overview.csv
+
+# Documentation & Presentations
+*.pptx
+*.docx
+
+# Temporary files
+.DS_Store
